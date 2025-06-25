@@ -17,8 +17,7 @@
 <li>I have created a freelancing website with mern</li>
 <li>I have creted a course mangement website with mern</li>
 
-# 💫 About Me:
-i am currently learning mern
+
 
 
 ## 🌐 Socials:

@@ -1,4 +1,7 @@
 <h2 align="center">Hi 👋, I'm Farhan Ahmed</h2>
+<p align="center">
+  <img src="https://github.com/farha123n/farha123n/blob/main/Your%20paragraph%20text%20(1).png" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75454&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;React+%7C+Spring+Boot+%7C+MongoDB;Open+to+internships+and+freelance+work" alt="Typing SVG" />

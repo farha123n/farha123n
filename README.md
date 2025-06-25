@@ -13,8 +13,10 @@
 
 
 ---
+<li>I have created event management website with react</li>
+<li>I have created a freelancing website with mern</li>
+<li>I have creted a course mangement website with mern</li>
 
-### 🛠️ Tech Stack
 ### 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
